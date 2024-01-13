@@ -1,0 +1,57 @@
+[
+  {
+    "product_id": 1,
+    "product_code": "bcf",
+    "product_name": "바질 치즈 포카치아",
+    "product_standard": "211g",
+    "product_unit": "1EA",
+    "product_sepc": null,
+    "product_quantity": 90,
+    "category_id": "f_bread",
+    "image_id": "f_bread001"
+  },
+  {
+    "product_id": 2,
+    "product_code": "bcs",
+    "product_name": "베이컨 크림치즈 씨드롤",
+    "product_standard": "212g",
+    "product_unit": "1EA",
+    "product_sepc": null,
+    "product_quantity": 91,
+    "category_id": "f_bread",
+    "image_id": "f_bread002"
+  },
+  {
+    "product_id": 1,
+    "product_code": "btb",
+    "product_name": "바질 토마토 크림치즈 베이글",
+    "product_standard": "200g",
+    "product_unit": "1EA",
+    "product_sepc": null,
+    "product_quantity": 112,
+    "category_id": "f_bread",
+    "image_id": "f_bread003"
+  },
+  {
+    "product_id": 4,
+    "product_code": "cbb",
+    "product_name": "크림치즈 브리오슈보스톡",
+    "product_standard": "220g",
+    "product_unit": "1EA",
+    "product_sepc": null,
+    "product_quantity": 162,
+    "category_id": "f_bread",
+    "image_id": "f_bread004"
+  },
+  {
+    "product_id": 5,
+    "product_code": "chb",
+    "product_name": "한 입에 쏙 치즈꿀 볼",
+    "product_standard": "222g",
+    "product_unit": "1EA",
+    "product_sepc": null,
+    "product_quantity": 194,
+    "category_id": "f_bread",
+    "image_id": "f_bread005"
+  }
+]
